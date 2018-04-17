@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">Gallery</title>
+	<subtitle type="text">Truck Service joomla responsive theme</subtitle>
+	<link rel="alternate" type="text/html" href="https://www.templates-preview.com"/>
+	<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery</id>
+	<updated>2018-04-17T16:32:38+00:00</updated>
+	<generator uri="https://www.joomla.org"></generator>
+	<link rel="self" type="application/atom+xml" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Gallery 7</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/37-gallery-7"/>
+		<published>2015-11-30T12:19:11+00:00</published>
+		<updated>2015-11-30T12:19:11+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/37-gallery-7</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery07.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery07.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 8</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/36-gallery-8"/>
+		<published>2015-11-30T12:19:11+00:00</published>
+		<updated>2015-11-30T12:19:11+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/36-gallery-8</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery08.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery08.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 4</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/31-gallery-4"/>
+		<published>2015-11-30T12:17:35+00:00</published>
+		<updated>2015-11-30T12:17:35+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/31-gallery-4</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery04.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery04.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 5</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/30-gallery-5"/>
+		<published>2015-11-30T12:17:35+00:00</published>
+		<updated>2015-11-30T12:17:35+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/30-gallery-5</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery05.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery05.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 6</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/29-gallery-6"/>
+		<published>2015-11-30T12:17:35+00:00</published>
+		<updated>2015-11-30T12:17:35+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/29-gallery-6</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery06.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery06.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 3</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/28-gallery-3"/>
+		<published>2015-11-30T12:12:34+00:00</published>
+		<updated>2015-11-30T12:12:34+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/28-gallery-3</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery03.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery03.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 2</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/27-gallery-2"/>
+		<published>2015-11-30T12:11:45+00:00</published>
+		<updated>2015-11-30T12:11:45+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/27-gallery-2</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery02.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter2&quot;&gt;
+&lt;div class=&quot;thumb-isotope&quot;&gt;
+  &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+    &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+      &lt;figure&gt;
+        &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery02.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+      &lt;/figure&gt;
+      &lt;div class=&quot;caption&quot;&gt;Lorem ipsum dolor sit amet conse ctetur&lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+	<entry>
+		<title>Gallery 1</title>
+		<link rel="alternate" type="text/html" href="https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/26-gallery-1"/>
+		<published>2015-11-30T09:24:41+00:00</published>
+		<updated>2015-11-30T09:24:41+00:00</updated>
+		<id>https://www.templates-preview.com/joomla/300111890/index.php/gallery/item/26-gallery-1</id>
+		<author>
+			<name>Super User</name>
+			<email>info@gridgum.com</email>
+		</author>
+		<summary type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+  &lt;div class=&quot;thumb-isotope&quot;&gt;
+    &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+      &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+        &lt;figure&gt;
+          &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery01.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+        &lt;/figure&gt;
+        &lt;div class=&quot;caption&quot;&gt;Duis imperdiet quam in justo varius, eget imperdiet nunc cursus.&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</summary>
+		<content type="html">&lt;div class=&quot;K2FeedIntroText&quot;&gt;&lt;li class=&quot;element isotope-filter1&quot;&gt;
+  &lt;div class=&quot;thumb-isotope&quot;&gt;
+    &lt;div class=&quot;thumbnail clearfix&quot;&gt;
+      &lt;a href=&quot;https://www.templates-preview.com/joomla/300111890/images/blank.png&quot;&gt;
+        &lt;figure&gt;
+          &lt;img src=&quot;https://www.templates-preview.com/joomla/300111890/images/gallery01.jpg&quot; alt=&quot;&quot;&gt;&lt;em&gt;&lt;/em&gt;
+        &lt;/figure&gt;
+        &lt;div class=&quot;caption&quot;&gt;Duis imperdiet quam in justo varius, eget imperdiet nunc cursus.&lt;/div&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/li&gt;&lt;/div&gt;</content>
+		<category term="Gallery" />
+	</entry>
+</feed>

@@ -31,7 +31,9 @@ body{ background: #fff;  border:0; font: 14px 'Roboto', Arial, Helvetica, sans-s
 .top1_wrapper{position: relative; background: url(../images/px1.png) 0 0 repeat-y #0d1a2c; padding: 25px 0;}
 
 header{float: left; text-align: center;}
-.logo{display: inline-block;}
+.logo{display: inline-block;
+ }
+ .logo3{height: 60px;width: 120px}
 
 .details {float: right; font-family: 'Lato'; color: #c9c9c9;line-height: 1; font-size: 14px; padding-top: 5px; text-align: center;}
 

@@ -286,6 +286,7 @@ div.itemBackToTop {
 
 .logo2_wrapper{float: left; text-align: center; padding-top: 5px;}
 .logo2{display: inline-block;}
+.logo2_size{height:60px ;width:150px;}
 
 .bot2_wrapper{position: relative;  background: #f1f1f1; padding: 25px 0;}
 .payment{float: right;}

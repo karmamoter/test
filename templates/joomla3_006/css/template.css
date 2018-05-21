@@ -519,7 +519,7 @@ transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-trans
 transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out;
 }
 .thumb2 .thumbnail a:hover .caption{}
-.thumb2 .thumbnail a .caption .txt1{font-family: 'Lato'; font-size: 20px; color: #323a45; font-weight: 900; text-decoration: none; padding-bottom: 10px; text-transform: uppercase; position: relative; padding-top: 15px; margin-top: 10px; line-height: 1.1;
+.thumb2 .thumbnail a .caption .txt1{font-family: 'Lato'; font-size: 20px; color: #3399ff; font-weight: 900; text-decoration: none; padding-bottom: 10px; text-transform: uppercase; position: relative; padding-top: 15px; margin-top: 10px; line-height: 1.1;
 transition: all 0.3s ease-out; -moz-transition: all 0.3s ease-out; -webkit-transition: all 0.3s ease-out; -o-transition: all 0.3s ease-out;
 }
 .thumb2 .thumbnail a .caption .txt1:before{content: ''; width: 68px; height: 4px; background: #dfdfdf; position: absolute; left: 0; top: 0;}

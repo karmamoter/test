@@ -53,6 +53,7 @@
 	<script src="templates/joomla3_006/js/jquery.isotope.min.js" type="text/javascript"></script>
 	<script src="templates/joomla3_006/js/jquery.equalheights.js" type="text/javascript"></script>
 	<script src="templates/joomla3_006/js/script.js" type="text/javascript"></script>
+
 	<!--[if lt IE 9]><script src="/joomla/300111890/media/system/js/html5fallback.js?72532322ad35dd6d3eb183b915ef35de" type="text/javascript"></script><![endif]-->
 
 	
@@ -1243,7 +1244,7 @@
       <div class="search-form-wrapper clearfix">
 
         <div class="search">
-	<form action="https://www.templates-preview.com/joomla/300111890/index.php" method="post" class="form-inline">
+	<form action="https://www.google.com" method="post" class="form-inline">
 		<label for="mod-search-searchword106" class="element-invisible">Search ...</label> <input name="searchword" id="mod-search-searchword106" maxlength="200"  class="inputbox search-query input-medium" type="search" placeholder="Search ..." />		<input type="hidden" name="task" value="search" />
 		<input type="hidden" name="option" value="com_search" />
 		<input type="hidden" name="Itemid" value="101" />
@@ -1263,7 +1264,16 @@
     
 
 <div class="custom"  >
-	<p>Copyright © 2016<!--?php echo date('Y'); ?--> <!--?php echo $sitename; ?-->. All rights reserved.</p></div>
+
+	<p id="demo">Copyright  <script type="text/javascript">
+<!--
+var currentTime = new Date()
+var month = currentTime.getMonth() + 1
+var day = currentTime.getDate()
+var year = currentTime.getFullYear()
+document.write(month + "/" + day + "/" + year)
+//-->
+</script> || Karmamoter.com ||  All rights reserved.</p></div>
    
   </div>
 </div>
